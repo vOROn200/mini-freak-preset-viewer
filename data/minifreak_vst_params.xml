@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--********************************************************************************
+*
+*  Module      : minifreak_vst_params.xml
+*
+*  Project     : *
+*
+*  Description : AUTO GENERATED CODE.
+*                
+*                DO NOT MODIFY MANUALLY
+*
+*  Designer    : *
+*
+*  Company     : Arturia.
+*
+*                Copyright (c) 2023 Arturia.
+*                All rights reserved
+*
+********************************************************************************-->
+
+<rootnode>
+    <param name="Osc1_CoarseTune" resetable="1" display_name="Osc1 Coarse" text_desc="Sets the Coarse Tune of Oscillator 1" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <item_list name="Osc1_Type_V0.0.0">
+        <item text="Basic Waves" processorvalue="0"/>
+        <item text="SuperWave" processorvalue="1"/>
+        <item text="Harmo" processorvalue="2"/>
+        <item text="KarplusStr" processorvalue="3"/>
+        <item text="VAnalog" processorvalue="4"/>
+        <item text="Waveshaper" processorvalue="5"/>
+        <item text="Two Op. FM" processorvalue="6"/>
+        <item text="Formant" processorvalue="7"/>
+        <item text="Speech" processorvalue="8"/>
+        <item text="Modal" processorvalue="9"/>
+        <item text="Noise" processorvalue="10"/>
+        <item text="Bass" processorvalue="11"/>
+        <item text="SawX" processorvalue="12"/>
+        <item text="Harm" processorvalue="13"/>
+        <item text="Audio In" processorvalue="14"/>
+    </item_list>
+    <item_list name="Osc1_Type_V1.9.0">
+        <item text="Basic Waves" processorvalue="0"/>
+        <item text="SuperWave" processorvalue="1"/>
+        <item text="Harmo" processorvalue="2"/>
+        <item text="KarplusStr" processorvalue="3"/>
+        <item text="VAnalog" processorvalue="4"/>
+        <item text="Waveshaper" processorvalue="5"/>
+        <item text="Two Op. FM" processorvalue="6"/>
+        <item text="Formant" processorvalue="7"/>
+        <item text="Speech" processorvalue="8"/>
+        <item text="Modal" processorvalue="9"/>
+        <item text="Noise" processorvalue="10"/>
+        <item text="Bass" processorvalue="11"/>
+        <item text="SawX" processorvalue="12"/>
+        <item text="Harm" processorvalue="13"/>
+        <item text="Audio In" processorvalue="14"/>
+        <item text="Wavetable" processorvalue="15"/>
+    </item_list>
+    <param name="Osc1_Type" resetable="1" display_name="Osc1 Type" text_desc="Browses through oscillator Types" defaultvalnorm="0">
+        <item_list name="Osc1_Type_V0.0.0" version="0.0.0"/>
+        <item_list name="Osc1_Type_V1.9.0" version="1.9.0"/>
+    </param>
+    <param name="Osc1_Param1" resetable="1" display_name="Osc1 Wave" text_desc="Wave parameter of Oscillator 1" mapping-min="0" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Osc1_Param2" resetable="1" display_name="Osc1 Timbre" text_desc="Timbre parameter of Oscillator 1" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="Osc1_Param3" resetable="1" display_name="Osc1 Shape" text_desc="Shape parameter of Oscillator 1" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="Osc1_Volume" resetable="1" display_name="Osc1 Volume" text_desc="Sets the output volume of Oscillator 1" mapping-min="0" mapping-max="1" defaultvalnorm="1.0"/>
+    <param name="Osc2_CoarseTune" resetable="1" display_name="Osc2 Coarse" text_desc="Sets the Coarse Tune of Oscillator 2" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <item_list name="Osc2_Type_V0.0.0">
+        <item text="Basic Waves" processorvalue="0"/>
+        <item text="SuperWave" processorvalue="1"/>
+        <item text="Harmo" processorvalue="2"/>
+        <item text="KarplusStr" processorvalue="3"/>
+        <item text="VAnalog" processorvalue="4"/>
+        <item text="Waveshaper" processorvalue="5"/>
+        <item text="Two Op. FM" processorvalue="6"/>
+        <item text="Formant" processorvalue="7"/>
+        <item text="Chords" processorvalue="8"/>
+        <item text="Speech" processorvalue="9"/>
+        <item text="Modal" processorvalue="10"/>
+        <item text="Noise" processorvalue="11"/>
+        <item text="Bass" processorvalue="12"/>
+        <item text="SawX" processorvalue="13"/>
+        <item text="Harm" processorvalue="14"/>
+        <item text="FM / RM" processorvalue="15"/>
+        <item text="Multi Filter" processorvalue="16"/>
+        <item text="Surgeon Filter" processorvalue="17"/>
+        <item text="Comb Filter" processorvalue="18"/>
+        <item text="Phaser Filter" processorvalue="19"/>
+        <item text="Destroy" processorvalue="20"/>
+    </item_list>
+    <item_list name="Osc2_Type_V1.9.0">
+        <item text="Basic Waves" processorvalue="0"/>
+        <item text="SuperWave" processorvalue="1"/>
+        <item text="Harmo" processorvalue="2"/>
+        <item text="KarplusStr" processorvalue="3"/>
+        <item text="VAnalog" processorvalue="4"/>
+        <item text="Waveshaper" processorvalue="5"/>
+        <item text="Two Op. FM" processorvalue="6"/>
+        <item text="Formant" processorvalue="7"/>
+        <item text="Chords" processorvalue="8"/>
+        <item text="Speech" processorvalue="9"/>
+        <item text="Modal" processorvalue="10"/>
+        <item text="Noise" processorvalue="11"/>
+        <item text="Bass" processorvalue="12"/>
+        <item text="SawX" processorvalue="13"/>
+        <item text="Harm" processorvalue="14"/>
+        <item text="FM / RM" processorvalue="15"/>
+        <item text="Multi Filter" processorvalue="16"/>
+        <item text="Surgeon Filter" processorvalue="17"/>
+        <item text="Comb Filter" processorvalue="18"/>
+        <item text="Phaser Filter" processorvalue="19"/>
+        <item text="Destroy" processorvalue="20"/>
+        <item text="Dummy" processorvalue="21"/>
+    </item_list>
+    <param name="Osc2_Type" resetable="1" display_name="Osc2 Type" text_desc="Browses through Oscillator and Filter Types" defaultvalnorm="0">
+        <item_list name="Osc2_Type_V0.0.0" version="0.0.0"/>
+        <item_list name="Osc2_Type_V1.9.0" version="1.9.0"/>
+    </param>
+    <param name="Osc2_Param1" resetable="1" display_name="Osc2 Wave" text_desc="Wave parameter of Oscillator 2" mapping-min="0" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Osc2_Param2" resetable="1" display_name="Osc2 Timbre" text_desc="Timbre parameter of Oscillator 2" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="Osc2_Param3" resetable="1" display_name="Osc2 Shape" text_desc="Shape parameter of Oscillator 2" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="Osc2_Volume" resetable="1" display_name="Osc2 Volume" text_desc="Sets the output volume of Oscillator 2" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="Osc_Glide" resetable="1" display_name="Glide" text_desc="The time it takes to go from the current voice's pitch to a new voice's pitch" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="Vcf_Cutoff" resetable="1" display_name="Cutoff" text_desc="The cutoff frequency of the Virtual Analog filter" mapping-min="0" mapping-max="1" defaultvalnorm="1.0"/>
+    <param name="Vcf_Resonance" resetable="1" display_name="Reso" text_desc="The resonance of the Virtual Analog filter" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="Vcf_EnvAmount" resetable="1" display_name="Env Amt" text_desc="Modulation of the Cutoff frequency with the ADSR envelope" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Vca_Mod" resetable="1" display_name="VCA" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="Env_Attack" resetable="1" display_name="Attack" text_desc="The time needed to go from the start level to the maximum level" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="Env_Decay" resetable="1" display_name="Decay" text_desc="The time needed to go from the maximum level to the sustain level" mapping-min="0" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Env_Sustain" resetable="1" display_name="Sustain" text_desc="The amplitude at which the envelope will be kept while the gate source is active" mapping-min="0" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Env_Release" resetable="1" display_name="Release" text_desc="The time it takes for the envelope to go back to 0 after the gate source is stopped" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="CycEnv_Rise" resetable="1" display_name="Rise" text_desc="The time it takes for the Cycling Envelope to reach its maximum value when triggered" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="CycEnv_Fall" resetable="1" display_name="Fall" text_desc="The time it takes for the Cycling Envelope to go back to 0 from its maximum value" mapping-min="0" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="CycEnv_Hold" resetable="1" display_name="Hold" text_desc="The time it takes for the Cycling Envelope to stay at a constant value. This is affected by the Stage Order" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="LFO1_Wave" resetable="1" display_name="LFO1 Wave" text_desc="Selects a waveform for the LFO. Shaper waveform is at the end of the list" defaultvalnorm="0">
+        <item text="Sin" processorvalue="0"/>
+        <item text="Tri" processorvalue="1"/>
+        <item text="Saw" processorvalue="2"/>
+        <item text="Sqr" processorvalue="3"/>
+        <item text="SnH" processorvalue="4"/>
+        <item text="SlewSNH" processorvalue="5"/>
+        <item text="ExpSaw" processorvalue="6"/>
+        <item text="ExpRamp" processorvalue="7"/>
+        <item text="Shaper" processorvalue="8"/>
+    </param>
+    <param name="LFO1_Rate" resetable="1" display_name="LFO1 Rate" text_desc="The frequency at which the LFO runs, in hertz" mapping-min="0" mapping-max="1" defaultvalnorm="0.3"/>
+    <param name="LFO1_RateSync" resetable="1" display_name="LFO1 Sync" text_desc="The number of beats the LFO takes for a period" defaultvalnorm="0.6296">
+        <item text="8d" processorvalue="0"/>
+        <item text="8" processorvalue="1"/>
+        <item text="4d" processorvalue="2"/>
+        <item text="8t" processorvalue="3"/>
+        <item text="4" processorvalue="4"/>
+        <item text="2d" processorvalue="5"/>
+        <item text="4t" processorvalue="6"/>
+        <item text="2" processorvalue="7"/>
+        <item text="1d" processorvalue="8"/>
+        <item text="2t" processorvalue="9"/>
+        <item text="1" processorvalue="10"/>
+        <item text="1/2d" processorvalue="11"/>
+        <item text="1t" processorvalue="12"/>
+        <item text="1/2" processorvalue="13"/>
+        <item text="1/4d" processorvalue="14"/>
+        <item text="1/2t" processorvalue="15"/>
+        <item text="1/4" processorvalue="16"/>
+        <item text="1/8d" processorvalue="17"/>
+        <item text="1/4t" processorvalue="18"/>
+        <item text="1/8" processorvalue="19"/>
+        <item text="1/16d" processorvalue="20"/>
+        <item text="1/8t" processorvalue="21"/>
+        <item text="1/16" processorvalue="22"/>
+        <item text="1/32d" processorvalue="23"/>
+        <item text="1/16t" processorvalue="24"/>
+        <item text="1/32" processorvalue="25"/>
+        <item text="1/32t" processorvalue="26"/>
+    </param>
+    <param name="LFO2_Wave" resetable="1" display_name="LFO2 Wave" text_desc="Selects a waveform for the LFO. Shaper waveform is at the end of the list" defaultvalnorm="0">
+        <item text="Sin" processorvalue="0"/>
+        <item text="Tri" processorvalue="1"/>
+        <item text="Saw" processorvalue="2"/>
+        <item text="Sqr" processorvalue="3"/>
+        <item text="SnH" processorvalue="4"/>
+        <item text="SlewSNH" processorvalue="5"/>
+        <item text="ExpSaw" processorvalue="6"/>
+        <item text="ExpRamp" processorvalue="7"/>
+        <item text="Shaper" processorvalue="8"/>
+    </param>
+    <param name="LFO2_Rate" resetable="1" display_name="LFO2 Rate" text_desc="The frequency at which the LFO runs, in hertz" mapping-min="0" mapping-max="1" defaultvalnorm="0.3"/>
+    <param name="LFO2_RateSync" resetable="1" display_name="LFO2 Sync" text_desc="The number of beats the LFO takes for a period" defaultvalnorm="0.6296">
+        <item text="8d" processorvalue="0"/>
+        <item text="8" processorvalue="1"/>
+        <item text="4d" processorvalue="2"/>
+        <item text="8t" processorvalue="3"/>
+        <item text="4" processorvalue="4"/>
+        <item text="2d" processorvalue="5"/>
+        <item text="4t" processorvalue="6"/>
+        <item text="2" processorvalue="7"/>
+        <item text="1d" processorvalue="8"/>
+        <item text="2t" processorvalue="9"/>
+        <item text="1" processorvalue="10"/>
+        <item text="1/2d" processorvalue="11"/>
+        <item text="1t" processorvalue="12"/>
+        <item text="1/2" processorvalue="13"/>
+        <item text="1/4d" processorvalue="14"/>
+        <item text="1/2t" processorvalue="15"/>
+        <item text="1/4" processorvalue="16"/>
+        <item text="1/8d" processorvalue="17"/>
+        <item text="1/4t" processorvalue="18"/>
+        <item text="1/8" processorvalue="19"/>
+        <item text="1/16d" processorvalue="20"/>
+        <item text="1/8t" processorvalue="21"/>
+        <item text="1/16" processorvalue="22"/>
+        <item text="1/32d" processorvalue="23"/>
+        <item text="1/16t" processorvalue="24"/>
+        <item text="1/32" processorvalue="25"/>
+        <item text="1/32t" processorvalue="26"/>
+    </param>
+    <param name="Macro1_Value" resetable="1" display_name="Macro 1" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="Macro2_Value" resetable="1" display_name="Macro 2" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="Gen_UnisonSpread" resetable="1" display_name="Uni Spread" text_desc="Defines how the pitches of voices are spread apart in Unison mode" mapping-min="0" mapping-max="1" defaultvalnorm="0.04172"/>
+    <param name="Mx_Dot_0" resetable="1" display_name="Mod 1:1" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_1" resetable="1" display_name="Mod 1:2" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_2" resetable="1" display_name="Mod 1:3" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_3" resetable="1" display_name="Mod 1:4" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_4" resetable="1" display_name="Mod 2:1" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_5" resetable="1" display_name="Mod 2:2" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_6" resetable="1" display_name="Mod 2:3" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_7" resetable="1" display_name="Mod 2:4" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_8" resetable="1" display_name="Mod 3:1" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_9" resetable="1" display_name="Mod 3:2" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_10" resetable="1" display_name="Mod 3:3" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_11" resetable="1" display_name="Mod 3:4" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_12" resetable="1" display_name="Mod 4:1" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_13" resetable="1" display_name="Mod 4:2" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_14" resetable="1" display_name="Mod 4:3" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_15" resetable="1" display_name="Mod 4:4" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_16" resetable="1" display_name="Mod 5:1" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_17" resetable="1" display_name="Mod 5:2" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_18" resetable="1" display_name="Mod 5:3" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_19" resetable="1" display_name="Mod 5:4" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_20" resetable="1" display_name="Mod 6:1" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_21" resetable="1" display_name="Mod 6:2" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_22" resetable="1" display_name="Mod 6:3" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_23" resetable="1" display_name="Mod 6:4" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_24" resetable="1" display_name="Mod 7:1" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_25" resetable="1" display_name="Mod 7:2" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_26" resetable="1" display_name="Mod 7:3" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_Dot_Last" resetable="1" display_name="Mod 7:4" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_0" resetable="1" display_name="Mod 1:5" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_1" resetable="1" display_name="Mod 1:6" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_2" resetable="1" display_name="Mod 1:7" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_3" resetable="1" display_name="Mod 1:8" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_4" resetable="1" display_name="Mod 1:9" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_5" resetable="1" display_name="Mod 1:10" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_6" resetable="1" display_name="Mod 1:11" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_7" resetable="1" display_name="Mod 1:12" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_8" resetable="1" display_name="Mod 1:13" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_9" resetable="1" display_name="Mod 2:5" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_10" resetable="1" display_name="Mod 2:6" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_11" resetable="1" display_name="Mod 2:7" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_12" resetable="1" display_name="Mod 2:8" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_13" resetable="1" display_name="Mod 2:9" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_14" resetable="1" display_name="Mod 2:10" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_15" resetable="1" display_name="Mod 2:11" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_16" resetable="1" display_name="Mod 2:12" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_17" resetable="1" display_name="Mod 2:13" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_18" resetable="1" display_name="Mod 3:5" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_19" resetable="1" display_name="Mod 3:6" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_20" resetable="1" display_name="Mod 3:7" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_21" resetable="1" display_name="Mod 3:8" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_22" resetable="1" display_name="Mod 3:9" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_23" resetable="1" display_name="Mod 3:10" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_24" resetable="1" display_name="Mod 3:11" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_25" resetable="1" display_name="Mod 3:12" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_26" resetable="1" display_name="Mod 3:13" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_27" resetable="1" display_name="Mod 4:5" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_28" resetable="1" display_name="Mod 4:6" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_29" resetable="1" display_name="Mod 4:7" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_30" resetable="1" display_name="Mod 4:8" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_31" resetable="1" display_name="Mod 4:9" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_32" resetable="1" display_name="Mod 4:10" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_33" resetable="1" display_name="Mod 4:11" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_34" resetable="1" display_name="Mod 4:12" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_35" resetable="1" display_name="Mod 4:13" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_36" resetable="1" display_name="Mod 5:5" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_37" resetable="1" display_name="Mod 5:6" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_38" resetable="1" display_name="Mod 5:7" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_39" resetable="1" display_name="Mod 5:8" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_40" resetable="1" display_name="Mod 5:9" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_41" resetable="1" display_name="Mod 5:10" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_42" resetable="1" display_name="Mod 5:11" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_43" resetable="1" display_name="Mod 5:12" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_44" resetable="1" display_name="Mod 5:13" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_45" resetable="1" display_name="Mod 6:5" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_46" resetable="1" display_name="Mod 6:6" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_47" resetable="1" display_name="Mod 6:7" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_48" resetable="1" display_name="Mod 6:8" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_49" resetable="1" display_name="Mod 6:9" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_50" resetable="1" display_name="Mod 6:10" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_51" resetable="1" display_name="Mod 6:11" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_52" resetable="1" display_name="Mod 6:12" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_53" resetable="1" display_name="Mod 6:13" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_54" resetable="1" display_name="Mod 7:5" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_55" resetable="1" display_name="Mod 7:6" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_56" resetable="1" display_name="Mod 7:7" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_57" resetable="1" display_name="Mod 7:8" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_58" resetable="1" display_name="Mod 7:9" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_59" resetable="1" display_name="Mod 7:10" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_60" resetable="1" display_name="Mod 7:11" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_61" resetable="1" display_name="Mod 7:12" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Mx_AssignDot_Last" resetable="1" display_name="Mod 7:13" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Vibrato_Amount_Global" resetable="1" display_name="Vib AM" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="Pitch1_Mod_On" resetable="1" display_name="Pitch 1" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Pitch2_Mod_On" resetable="1" display_name="Pitch 2" mapping-min="-1" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="MxDst_LFO1_Amp" resetable="1" display_name="LFO1 AM" mapping-min="0" mapping-max="1" defaultvalnorm="1.0"/>
+    <param name="MxDst_LFO2_Amp" resetable="1" display_name="LFO2 AM" mapping-min="0" mapping-max="1" defaultvalnorm="1.0"/>
+    <param name="MxDst_CycEnv_Amp" resetable="1" display_name="CycEnv AM" mapping-min="0" mapping-max="1" defaultvalnorm="1.0"/>
+    <param name="Vibrato_Rate" resetable="1" display_name="Vib Rate" text_desc="The rate of the Vibrato" mapping-min="0" mapping-max="1" defaultvalnorm="0.3298969"/>
+    <param name="FX1_Param1" resetable="1" display_name="FX1 Time" mapping-min="0" mapping-max="1" defaultvalnorm="0.0451"/>
+    <param name="FX1_Param2" resetable="1" display_name="FX1 Intensity" mapping-min="0" mapping-max="1" defaultvalnorm="0.6202"/>
+    <param name="FX1_Param3" resetable="1" display_name="FX1 Amount" mapping-min="0" mapping-max="1" defaultvalnorm="0.2"/>
+    <param name="FX2_Param1" resetable="1" display_name="FX2 Time" mapping-min="0" mapping-max="1" defaultvalnorm="0.6"/>
+    <param name="FX2_Param2" resetable="1" display_name="FX2 Intensity" mapping-min="0" mapping-max="1" defaultvalnorm="0.2218"/>
+    <param name="FX2_Param3" resetable="1" display_name="FX2 Amount" mapping-min="0" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="FX3_Param1" resetable="1" display_name="FX3 Time" mapping-min="0" mapping-max="1" defaultvalnorm="0.375"/>
+    <param name="FX3_Param2" resetable="1" display_name="FX3 Intensity" mapping-min="0" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="FX3_Param3" resetable="1" display_name="FX3 Amount" mapping-min="0" mapping-max="1" defaultvalnorm="0.5"/>
+    <param name="Seq_Gate" resetable="1" display_name="Gate" mapping-min="1" mapping-max="99" defaultvalnorm="0.5">
+        <item from="1" to="99"/>
+    </param>
+    <param name="Spice" resetable="1" display_name="Spice" mapping-min="0" mapping-max="1" defaultvalnorm="0"/>
+    <param name="Arp_Mode" resetable="1" display_name="Arp Mode" defaultvalnorm="0">
+        <item text="Up" processorvalue="0"/>
+        <item text="Down" processorvalue="1"/>
+        <item text="UpDown" processorvalue="2"/>
+        <item text="Random" processorvalue="3"/>
+        <item text="Walk" processorvalue="4"/>
+        <item text="Pattern" processorvalue="5"/>
+        <item text="Order" processorvalue="6"/>
+        <item text="Poly" processorvalue="7"/>
+    </param>
+    <param name="Arp_Repeat" resetable="1" display_name="Arp repeat" defaultvalnorm="0">
+        <item text="Off"/>
+        <item text="On" />
+    </param>
+    <param name="Arp_Ratchet" resetable="1" display_name="Arp ratchet" defaultvalnorm="0">
+        <item text="Off"/>
+        <item text="On" />
+    </param>
+    <param name="Arp_Mutate" resetable="1" display_name="Arp mutate" defaultvalnorm="0">
+        <item text="Off"/>
+        <item text="On" />
+    </param>
+    <param name="Arp_Rand_Oct" resetable="1" display_name="Arp random octave" defaultvalnorm="0">
+        <item text="Off"/>
+        <item text="On" />
+    </param>
+    <param name="Arp_Oct" resetable="1" display_name="Octave range" mapping-min="0" mapping-max="3" defaultvalnorm="0">
+        <item from="0" to="3"/>
+    </param>
+</rootnode>

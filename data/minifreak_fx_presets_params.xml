@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--********************************************************************************
+*
+*  Module      : minifreak_fx_presets_params.xml
+*
+*  Project     : *
+*
+*  Description : AUTO GENERATED CODE.
+*                
+*                DO NOT MODIFY MANUALLY
+*
+*  Designer    : *
+*
+*  Company     : Arturia.
+*
+*                Copyright (c) 2023 Arturia.
+*                All rights reserved
+*
+********************************************************************************-->
+
+<rootnode>
+    <param name="Opt1_Chorus" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Lush" processorvalue="1"/>
+        <item text="Dark" processorvalue="2"/>
+        <item text="Shaded" processorvalue="3"/>
+        <item text="Single" processorvalue="4"/>
+    </param>
+    <param name="Opt2_Chorus" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Lush" processorvalue="1"/>
+        <item text="Dark" processorvalue="2"/>
+        <item text="Shaded" processorvalue="3"/>
+        <item text="Single" processorvalue="4"/>
+    </param>
+    <param name="Opt3_Chorus" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Lush" processorvalue="1"/>
+        <item text="Dark" processorvalue="2"/>
+        <item text="Shaded" processorvalue="3"/>
+        <item text="Single" processorvalue="4"/>
+    </param>
+    <param name="Opt1_Phaser" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Default Sync" processorvalue="1"/>
+        <item text="Space" processorvalue="2"/>
+        <item text="Space Sync" processorvalue="3"/>
+        <item text="SnH" processorvalue="4"/>
+        <item text="SnH Sync" processorvalue="5"/>
+    </param>
+    <param name="Opt2_Phaser" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Default Sync" processorvalue="1"/>
+        <item text="Space" processorvalue="2"/>
+        <item text="Space Sync" processorvalue="3"/>
+        <item text="SnH" processorvalue="4"/>
+        <item text="SnH Sync" processorvalue="5"/>
+    </param>
+    <param name="Opt3_Phaser" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Default Sync" processorvalue="1"/>
+        <item text="Space" processorvalue="2"/>
+        <item text="Space Sync" processorvalue="3"/>
+        <item text="SnH" processorvalue="4"/>
+        <item text="SnH Sync" processorvalue="5"/>
+    </param>
+    <param name="Opt1_StereoDelay" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Digital" processorvalue="0"/>
+        <item text="Digital Sync" processorvalue="1"/>
+        <item text="Stereo" processorvalue="2"/>
+        <item text="Stereo Sync" processorvalue="3"/>
+        <item text="Ping-Pong" processorvalue="4"/>
+        <item text="Ping-Pong Sync" processorvalue="5"/>
+        <item text="Mono" processorvalue="6"/>
+        <item text="Mono Sync" processorvalue="7"/>
+        <item text="Filtered" processorvalue="8"/>
+        <item text="Filtered Sync" processorvalue="9"/>
+        <item text="Filtered Ping-Pong" processorvalue="10"/>
+        <item text="Filtered P-P Sync" processorvalue="11"/>
+    </param>
+    <param name="Opt2_StereoDelay" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Digital" processorvalue="0"/>
+        <item text="Digital Sync" processorvalue="1"/>
+        <item text="Stereo" processorvalue="2"/>
+        <item text="Stereo Sync" processorvalue="3"/>
+        <item text="Ping-Pong" processorvalue="4"/>
+        <item text="Ping-Pong Sync" processorvalue="5"/>
+        <item text="Mono" processorvalue="6"/>
+        <item text="Mono Sync" processorvalue="7"/>
+        <item text="Filtered" processorvalue="8"/>
+        <item text="Filtered Sync" processorvalue="9"/>
+        <item text="Filtered Ping-Pong" processorvalue="10"/>
+        <item text="Filtered P-P Sync" processorvalue="11"/>
+    </param>
+    <param name="Opt3_StereoDelay" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Digital" processorvalue="0"/>
+        <item text="Digital Sync" processorvalue="1"/>
+        <item text="Stereo" processorvalue="2"/>
+        <item text="Stereo Sync" processorvalue="3"/>
+        <item text="Ping-Pong" processorvalue="4"/>
+        <item text="Ping-Pong Sync" processorvalue="5"/>
+        <item text="Mono" processorvalue="6"/>
+        <item text="Mono Sync" processorvalue="7"/>
+        <item text="Filtered" processorvalue="8"/>
+        <item text="Filtered Sync" processorvalue="9"/>
+        <item text="Filtered Ping-Pong" processorvalue="10"/>
+        <item text="Filtered P-P Sync" processorvalue="11"/>
+    </param>
+    <param name="Opt1_Reverb" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Long" processorvalue="1"/>
+        <item text="Hall" processorvalue="2"/>
+        <item text="Echoes" processorvalue="3"/>
+        <item text="Room" processorvalue="4"/>
+        <item text="Dark Room" processorvalue="5"/>
+    </param>
+    <param name="Opt2_Reverb" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Long" processorvalue="1"/>
+        <item text="Hall" processorvalue="2"/>
+        <item text="Echoes" processorvalue="3"/>
+        <item text="Room" processorvalue="4"/>
+        <item text="Dark Room" processorvalue="5"/>
+    </param>
+    <param name="Opt3_Reverb" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Long" processorvalue="1"/>
+        <item text="Hall" processorvalue="2"/>
+        <item text="Echoes" processorvalue="3"/>
+        <item text="Room" processorvalue="4"/>
+        <item text="Dark Room" processorvalue="5"/>
+    </param>
+    <param name="Opt1_MultiComp" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="OPP" processorvalue="0"/>
+        <item text="Bass Ctrl" processorvalue="1"/>
+        <item text="High Ctrl" processorvalue="2"/>
+        <item text="All Up" processorvalue="3"/>
+        <item text="Tighter" processorvalue="4"/>
+    </param>
+    <param name="Opt2_MultiComp" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="OPP" processorvalue="0"/>
+        <item text="Bass Ctrl" processorvalue="1"/>
+        <item text="High Ctrl" processorvalue="2"/>
+        <item text="All Up" processorvalue="3"/>
+        <item text="Tighter" processorvalue="4"/>
+    </param>
+    <param name="Opt3_MultiComp" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="OPP" processorvalue="0"/>
+        <item text="Bass Ctrl" processorvalue="1"/>
+        <item text="High Ctrl" processorvalue="2"/>
+        <item text="All Up" processorvalue="3"/>
+        <item text="Tighter" processorvalue="4"/>
+    </param>
+    <param name="Opt1_EQ3" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Wide" processorvalue="1"/>
+        <item text="Mid 1K" processorvalue="2"/>
+    </param>
+    <param name="Opt2_EQ3" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Wide" processorvalue="1"/>
+        <item text="Mid 1K" processorvalue="2"/>
+    </param>
+    <param name="Opt3_EQ3" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Wide" processorvalue="1"/>
+        <item text="Mid 1K" processorvalue="2"/>
+    </param>
+    <param name="Opt1_Disto" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Classic" processorvalue="0"/>
+        <item text="Soft Clip" processorvalue="1"/>
+        <item text="Germanium" processorvalue="2"/>
+        <item text="Dual Fold" processorvalue="3"/>
+        <item text="Climb" processorvalue="4"/>
+        <item text="Tape" processorvalue="5"/>
+    </param>
+    <param name="Opt2_Disto" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Classic" processorvalue="0"/>
+        <item text="Soft Clip" processorvalue="1"/>
+        <item text="Germanium" processorvalue="2"/>
+        <item text="Dual Fold" processorvalue="3"/>
+        <item text="Climb" processorvalue="4"/>
+        <item text="Tape" processorvalue="5"/>
+    </param>
+    <param name="Opt3_Disto" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Classic" processorvalue="0"/>
+        <item text="Soft Clip" processorvalue="1"/>
+        <item text="Germanium" processorvalue="2"/>
+        <item text="Dual Fold" processorvalue="3"/>
+        <item text="Climb" processorvalue="4"/>
+        <item text="Tape" processorvalue="5"/>
+    </param>
+    <param name="Opt1_Flanger" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Default Sync" processorvalue="1"/>
+        <item text="Silly" processorvalue="2"/>
+        <item text="Silly Sync" processorvalue="3"/>
+    </param>
+    <param name="Opt2_Flanger" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Default Sync" processorvalue="1"/>
+        <item text="Silly" processorvalue="2"/>
+        <item text="Silly Sync" processorvalue="3"/>
+    </param>
+    <param name="Opt3_Flanger" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Default" processorvalue="0"/>
+        <item text="Default Sync" processorvalue="1"/>
+        <item text="Silly" processorvalue="2"/>
+        <item text="Silly Sync" processorvalue="3"/>
+    </param>
+    <param name="Opt1_SuperUnison" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Classic" processorvalue="0"/>
+        <item text="Ravey" processorvalue="1"/>
+        <item text="Soli" processorvalue="2"/>
+        <item text="Slow" processorvalue="3"/>
+        <item text="Slow Trig" processorvalue="4"/>
+        <item text="Wide Trig" processorvalue="5"/>
+        <item text="Mono Trig" processorvalue="6"/>
+        <item text="Wavy" processorvalue="7"/>
+    </param>
+    <param name="Opt2_SuperUnison" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Classic" processorvalue="0"/>
+        <item text="Ravey" processorvalue="1"/>
+        <item text="Soli" processorvalue="2"/>
+        <item text="Slow" processorvalue="3"/>
+        <item text="Slow Trig" processorvalue="4"/>
+        <item text="Wide Trig" processorvalue="5"/>
+        <item text="Mono Trig" processorvalue="6"/>
+        <item text="Wavy" processorvalue="7"/>
+    </param>
+    <param name="Opt3_SuperUnison" realtimemidi="1" resetable="1" transmittedtoprocessor="0" notsetmodified="1" defaultvalnorm="0">
+        <item text="Classic" processorvalue="0"/>
+        <item text="Ravey" processorvalue="1"/>
+        <item text="Soli" processorvalue="2"/>
+        <item text="Slow" processorvalue="3"/>
+        <item text="Slow Trig" processorvalue="4"/>
+        <item text="Wide Trig" processorvalue="5"/>
+        <item text="Mono Trig" processorvalue="6"/>
+        <item text="Wavy" processorvalue="7"/>
+    </param>
+</rootnode>
